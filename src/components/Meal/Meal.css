@@ -1,0 +1,23 @@
+.meal{
+    border: 1px solid red;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.meal-img{
+    text-align: center;
+}
+.meal-img img{
+    width: 50%;
+    border-radius: 50%;
+}
+.details-btn{
+    width: 90px;
+    height: 35px;
+    background-color: #d30519;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

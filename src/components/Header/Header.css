@@ -1,0 +1,27 @@
+.header-container{
+    background: rgb(90, 90, 90);
+    padding: 0 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    width: 120px;;
+}
+.logo h1{
+    color:rgba(0, 255, 128, 0.918);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav-menu a{
+    text-decoration: none;
+    margin:0 14px;
+    color:white;
+    font-size: 18px;
+    transition: .3s;
+}
+.nav-menu a:hover{
+    color:rgba(0, 190, 95, 0.979);
+}
